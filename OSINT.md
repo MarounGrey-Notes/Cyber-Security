@@ -10,7 +10,8 @@
 **Check weak hashed password** https://dehash.me/ <br>
 **Cheak if credentials leaked ($5/week but empty giftcard works)** https://dehashed.com/ <br>
 **Cheak if credentials leaked** https://leakcheck.io/ <br>
-**Retrieve information from Steam Account*** https://steamid.uk/?notfound=1 <br>
-
+**Retrieve information from Steam Account** https://steamid.uk/?notfound=1 <br>
+**Reverse phone lookup (US)** https://thatsthem.com/reverse-phone-lookup <br>
+**Reverse phone lookup (US, good at looking up relatives and friends)** https://www.usphonebook.com
 
 
