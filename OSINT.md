@@ -1,6 +1,4 @@
-# OSINT
-
-## Background Check
+# OSINT recourses
 
 ### Kali linux
 **Maltego** (program for kali linux, yearly subscription is 999usd) <br>
@@ -10,7 +8,7 @@
 
 ### Browser
 **Check weak hashed password** https://dehash.me/ <br>
-**Cheak if credentials leaked** https://dehashed.com/ <br>
+**Cheak if credentials leaked ($5/week but empty giftcard works)** https://dehashed.com/ <br>
 **Cheak if credentials leaked** https://leakcheck.io/ <br>
 **Retrieve information from Steam Account*** https://steamid.uk/?notfound=1 <br>
 
