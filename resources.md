@@ -1,5 +1,6 @@
 # Pentesting
-XSS cheatsheet: https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html
+XSS cheatsheet: https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html <br>
+SQL injection guide: https://breakthesecurity.cysecurity.org/2010/12/hacking-website-using-sql-injection-step-by-step-guide.html <br>
 <br><br>
 # OSINT
 Maltego (program for kali linux, yearly subscription is 999usd)
