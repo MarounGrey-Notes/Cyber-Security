@@ -1,6 +1,6 @@
 # Stuff to Read
-Book List: http://dfir.org/?q=node/8
-Penetration Testing recources: https://github.com/wtsxDev/Penetration-Testing/blob/master/README.md#books
+1. Book List: http://dfir.org/?q=node/8
+2. Penetration Testing recources: https://github.com/wtsxDev/Penetration-Testing/blob/master/README.md#books
 
 # Pentesting
 XSS cheatsheet: https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html <br>
