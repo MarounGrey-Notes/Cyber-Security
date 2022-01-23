@@ -28,4 +28,5 @@ Privacy guides and worksheets: https://inteltechniques.com/links.html <br>
 Starting infosec career: https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/amp/<br>
 Practise hacking: https://cyberwarrior.com/ctf/<br>
 OSINT guide: https://www.hackers-arise.com/post/open-source-intelligence-osint-tracking-the-user-across-multiple-platforms-with-usersearch<br>
+Common Linux Commands: https://www.mediacollege.com/linux/command/linux-command.html
 
