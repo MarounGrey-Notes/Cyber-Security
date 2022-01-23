@@ -4,7 +4,9 @@
 **Maltego** (program for kali linux, yearly subscription is 999usd) <br>
 **SpiderFoot** Open Source OSINT tool https://github.com/smicallef/spiderfoot?ref=d <br>
 **TheHarvester** Open Source OSINT TOOL FOR GATHERING INFO on the companies or domains <br>
-**PhoneInfoga** Get personal information from the phone number
+**PhoneInfoga** Get personal information from the phone number<br>
+???<br>
+UserRecon<br>Sherlock<br>TrackIp<br>Seeker<br>
 
 ### Browser
 **Check weak hashed password** https://dehash.me/ <br>
